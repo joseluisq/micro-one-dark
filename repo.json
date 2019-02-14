@@ -1,0 +1,14 @@
+[{
+  "Name": "one-dark",
+  "Description": "One dark colorscheme for Micro",
+  "Tags": ["colorscheme"],
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/joseluisq/micro-one-dark/archive/1.0.0.zip",
+      "Require": {
+        "micro": ">=1.1.3"
+      }
+    }
+  ]
+}]
